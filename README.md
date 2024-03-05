@@ -1,2 +1,2 @@
 # magazine
-Magazine built using CSS grid concepts
+Magazine built using CSS grid concepts. Project from freeCodeCamp
